@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_xm2_cf4_5x">
+    <title>Grandma's French Toast</title>
+    <shortdesc>One of my first memories is of Grandma making us french toast in the kitchen whenever she
+    came to visit. I know you love the recipe, so I wanted to include her and her memory in your cookbook
+    for when you visit me here.</shortdesc>
+    <taskbody>
+        <prereq>Make sure you have all the ingredients. You'll need:<ul>
+            
+            <li><b>6 large eggs</b></li>
+            <li><b>2 1/2 tablespoons orange-flavored liqueur</b></li>
+            <li><b>1 tablespoon sanding sugar, plus more for serving</b></li>
+            <li><b>Coarse salt</b></li>
+            <li><b>1 1/2 teaspoons finely grated orange zest plus 2 tablespoons juice</b></li>
+            <li><b>1 1/4 cups whole milk</b></li>
+            <li><b>6 tablespoons sunflower oil</b></li>
+            <li><b>3 tablespoons unsalted butter, plus more for serving</b></li>
+            <li><b>1 loaf brioche bread, cut into 1/2-inch slices</b></li>
+            <li><b>pure maple syrup for serving</b></li>
+        </ul>
+        </prereq>
+        <context> 
+            <ul>
+                <li><b>Prep Time:</b> 10 minutes</li>
+                <li><b>Cook Time:</b> 5 minutes</li>
+                <li><b>Servings:</b> 6-7</li>
+            </ul>      
+        </context>
+        
+        <steps>
+            <step>
+                <cmd>Beat the <b>eggs</b> with a fork in a large, shallow dish.</cmd>
+            </step>
+            <step>
+                <cmd>Beat in the <b>liquer, sugar, salt, orange juice</b> and <b>orange zest</b></cmd>
+            </step>
+            <step>
+                <cmd>Add <b>milk</b> and beat until combined.</cmd>   
+            </step>
+            <step>
+                <cmd>Heat 4 tablespoons of <b>sunflower oil</b> in a large skillet over medium-high heat until sizzling.</cmd>
+            </step>
+            <step>
+                <cmd>Dip the <b>brioche bread,</b> one slice at a time, into egg mixture, adding them to the skillet. </cmd>
+            </step>
+            <step>
+                <cmd>Cook until the <b>brioche bread</b> is golden brown on both sides.</cmd>
+            </step>
+        </steps>
+        <info><note conref="c-introduction.dita#cintro/artsy"/>
+            <image href="ftfinished.jpg"/></info>
+        
+        
+    </taskbody>
+</task>

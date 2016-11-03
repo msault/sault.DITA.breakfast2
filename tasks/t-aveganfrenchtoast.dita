@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_orm_25n_5x">
+    <title>Vegan French Toast</title>
+    <shortdesc>If you're feeling fancy and have a little more time, this recipe is for you! The nutritional
+    yeast added to the recipe mimics the texture and flavor of the eggs that are normally used.</shortdesc>
+    <taskbody>
+        <prereq>Make sure you have all the ingredients. You'll need:<ul>
+            
+            <li><b>6 slices day-old ciabatta bread, sliced about 3/4 inch thick</b></li>
+            <li><b>1 cup almond milk</b></li>
+            <li><b>1 tablespoon maple syrup, plus more for serving</b></li>
+            <li><b>2 tablespoons millet flour</b></li>
+            <li><b>1 tablespoon nutritional yeast</b></li>
+            <li><b>1 teaspoon cinnamon</b></li>
+            <li><b>1/4 teaspoon freshly ground nutmeg</b></li>
+            <li><b>pinch of salt</b></li>
+            <li><b>coconut oil</b></li>
+        </ul>
+            You'll need these for toppings: <ul>
+                <li><b>powdered sugar</b></li>
+                <li><b>vegan butter</b></li>
+                <li><b>maple syrup</b></li>
+                <li><b>fresh fruit</b></li>
+            </ul>
+        </prereq>
+        <context> 
+            <ul>
+                <li><b>Prep Time:</b> 10 minutes</li>
+                <li><b>Cook Time:</b> 5 minutes</li>
+                <li><b>Servings:</b> 2-3</li>
+            </ul>      
+        </context>
+        
+        <steps>
+            <step>
+                <cmd>Whisk the <b>almond milk, maple syrup, flour, nutritional yeast, cinnamon, nutmeg,</b> and <b>salt</b>
+                in a small bowl</cmd>
+            </step>
+            <step>
+                <cmd>Place all of the <b>ciabatta bread</b> in a shallow dish.</cmd>
+            </step>
+            <step>
+                <cmd>Pour the mixture over the <b>ciabatta bread.</b></cmd>   
+                <substeps>
+                    <substep>
+                        <cmd>Make sure to flip or lift the <b>ciabatta bread</b> to make sure each side is
+                        evenly coated.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Heat a drizzle of <b>coconut oil</b> in a large skillet over medium heat. When the pan is hot, 
+                    </cmd>
+            </step>
+            <step>
+                <cmd>add the <b>ciabatta bread</b> slices and cook for a few minutes per side, until golden brown.</cmd>
+            </step>
+            <step>
+                <cmd>Serve with <b>powdered sugar,</b> a dab of <b>vegan butter, maple syrup,</b> and <b>fresh fruit.</b></cmd>
+            </step>
+        </steps>
+        <info><note conref="c-introduction.dita#cintro/artsy"/>
+            <image href="vftfinished.jpg"/></info>
+        
+        
+    </taskbody>
+</task>

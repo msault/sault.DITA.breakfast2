@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_rfx_wrm_5x">
+ <title>Introduction</title>
+ <conbody>
+  <p>Good Morning! I hope you slept well and are ready to take on another day. 
+  If not, dont worry, that's what I'm here for! You'll be able to find all the 
+  ingredients and supplies required for the food in this cookbook in the drawers
+  and cupboards of the kitchen. If you can't, just holler and I'll come help! 
+  Happy cooking!</p>
+  <fig>
+   <title>Lets Begin</title>
+   <image href="getcooking.jpg" />
+  </fig>
+  <note id="artsy">Don't worry if your products aren't as "artsy" as the pictures shown, just have
+  fun and remember to clean up!</note>
+ </conbody>
+</concept>
+

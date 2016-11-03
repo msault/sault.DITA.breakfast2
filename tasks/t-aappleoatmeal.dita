@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_kfz_b5m_5x">
+    <title>Making Vegan Apple Pie Oatmeal</title>
+    
+    <shortdesc>This filling, delicious, and nutritious breakfast is perfect for
+        these chilly fall mornings in Blacksburg! </shortdesc>
+    <taskbody>
+        <prereq>Make sure you have all the ingredients. You'll need:<ul>
+            
+            <li><b>1/2 cup old fashioned oats</b></li>
+            <li><b>1 1/4 cups vanilla almond milk</b></li>
+            <li><b>3 dates</b></li>
+            <li><b>1 apple</b></li>
+            <li><b>2 tsp. cinnamon</b></li>
+        </ul></prereq>
+        <context> 
+            <ul>
+                <li><b>Prep Time:</b> 5 minutes</li>
+                <li><b>Cook Time:</b> 5 minutes</li>
+                <li><b>Servings:</b> 1</li>
+            </ul>      
+        </context>
+
+        <steps>
+            <step>
+                <cmd>Heat the <b>vanilla almond milk</b> to a boil over medium heat</cmd>
+            </step>
+            <step>
+                <cmd>Slice the <b>dates </b>and <b>apples</b> into small, uniform pieces</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Set some of the <b>dates</b> and <b>apples</b> aside for later.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Add the <b>oats, almonds, </b>and <b>dates</b> and stir well.</cmd>                 
+            </step>
+            <step>
+                <cmd>Orient the <b>easy-lock lid with ingredient spout</b>
+                    slightly right of center.</cmd>
+            </step>
+            <step>
+                <cmd>Reduce the heat to medium-low and cook the <b>oats</b> according to the box instructions and
+                    until the <b>apples</b> are soft.</cmd>
+            </step>
+            <step>
+                <cmd>Pour the oatmeal into a bowl to serve, and garnish with the leftover <b>apples</b> and <b>dates.</b></cmd>
+            </step>
+        </steps>
+        <info><note conref="c-introduction.dita#cintro/artsy"/>
+            <image href="aofinished.jpg"/></info>
+           
+       
+    </taskbody>
+</task>
+

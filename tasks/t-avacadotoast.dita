@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_oqy_kqn_5x">
+    <title>Making Avacado Breakfast Toast</title>
+    <shortdesc>This quick and easy breakfast is perfect for when you're in a rush to explore the New River Valley!</shortdesc>
+    <taskbody>
+        <prereq>Make sure you have all the ingredients. You'll need:<ul>
+            
+            <li><b>2 slices sandwich bread</b></li>
+            <li><b>A few slivers of white onion</b></li>
+            <li><b>1 cup of refried beans</b></li>
+            <li><b>1 thinly sliced avacado</b></li>
+            <li><b>Coarse sea salt</b></li>
+        </ul></prereq>
+        <context> 
+            <ul>
+                <li><b>Prep Time:</b> 5 minutes</li>
+                <li><b>Cook Time:</b> 2 minutes</li>
+                <li><b>Servings:</b> 1</li>
+            </ul>      
+        </context>
+        
+        <steps>
+            <step>
+                <cmd>Toast the <b>bread</b> to your desired level of doneness.</cmd>
+            </step>
+            <step>
+                <cmd>Use a knife to slice the <b>white onions</b></cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Place them off to the side to top your finished product</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Warm the <b>refried beans</b> in a skillet.</cmd>                 
+            </step>
+            <step>
+                <cmd>Place the toast on your plate and top with the warmed <b>refried beans.</b></cmd>
+            </step>
+            <step>
+                <cmd>Top the toast with the <b>thinly sliced avacados</b> and <b>white onions</b></cmd>
+            </step>
+            <step>
+                <cmd>Sprinkle <b>coarse sea salt</b> on to taste</cmd>
+            </step>
+        </steps>
+        <info><note conref="c-introduction.dita#cintro/artsy"/>
+            <image href="atfinished.jpg"/></info>
+        
+        
+    </taskbody>
+</task>
